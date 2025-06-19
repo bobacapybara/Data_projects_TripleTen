@@ -1,5 +1,39 @@
 # Zomato Restaurant Analysis
 
+## Table of Contents
+<table>
+  <tr>
+    <td>#</td>
+    <td>File Name</td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://github.com/bobacapybara/Data_projects_TripleTen/blob/main/Zomato%20Restaurant%20Analysis/Dashboard1.png">Dashboard1.png</a></td>
+    <td>The image of the Tableau dashboard showing sales of cities</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="https://github.com/bobacapybara/Data_projects_TripleTen/blob/main/Zomato%20Restaurant%20Analysis/Dashboard2.png">Dashboard2.png</a></td>
+    <td>The image of the Tableau dashboard showing sales of restaurants.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 ## 📊 Project Description
 
 This Tableau project analyzes restaurant and sales data from Zomato with the goal of uncovering the key drivers behind restaurant performance and providing actionable insights for business growth. The analysis focuses on:
@@ -27,6 +61,9 @@ Through interactive dashboards and visual exploration, the project identifies hi
 - **North Indian** and **Chinese** cuisines (individually and combined) are the top revenue generators.
 - Other high-demand categories include **Bakery**, **Pizza**, **Beverages**, and **Desserts**.
 
+<img src="Dashboard1.png" width="700" />
+
+
 #### 3. Sales by Rating
 - Restaurants with ratings between **3.8 and 4.2** generate the highest revenue.
 - Surprisingly, **very high ratings** (>4.5) do not always equate to more sales.
@@ -36,6 +73,8 @@ Through interactive dashboards and visual exploration, the project identifies hi
 - A **positive correlation** exists between the number of ratings and total sales.
 - **Domino’s Pizza** stands out as a leader in both rating volume and sales.
 - A few **smaller or niche restaurants** outperform expectations despite fewer ratings.
+
+  <img src="Dashboard2.png" width="700" />
 
 ---
 

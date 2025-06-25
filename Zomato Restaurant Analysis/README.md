@@ -19,18 +19,21 @@
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
+    <td><a 
+herf="https://github.com/bobacapybara/Data_projects_TripleTen/blob/main/Zomato%20Restaurant%20Analysis/README.md">Readme.md</a></td>
+     <td> This is the readme file.</td>
   </tr>
   <tr>
     <td>4</td>
-    <td></td>
-    <td></td>
+    <td><a   
+herf="https://github.com/bobacapybara/Data_projects_TripleTen/blob/main/Zomato%20Restaurant%20Analysis/Zomato%20Restaurant%20Analysis%20Plan.pdf">Zomato Restaurant Analysis Plan</a></td>
+   <td> This is the Zomato Restaurant Analysis Plan.</td> 
   </tr>
   <tr>
     <td>5</td>
-    <td></td>
-    <td></td>
+    <td><a 
+  herf="https://github.com/bobacapybara/Data_projects_TripleTen/blob/main/Zomato%20Restaurant%20Analysis/Zomato%20Restaurant%20Analysis%20Summary.pdf">Zomato Restaurant Analysis Summary</a></td>
+    <td> This is the Zomato Restaurant Analysis Summary.</td> 
   </tr>
 </table>
 

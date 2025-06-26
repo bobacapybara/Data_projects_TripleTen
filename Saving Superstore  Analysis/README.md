@@ -2,7 +2,7 @@
 # 📈 Storytelling with Data — Reducing SuperStore Returns
 
 ## 📊 Tableau Public Dashboard  
-👉 [View the Dashboard on Tableau Public](INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+👉 [View the Dashboard on Tableau Public](https://public.tableau.com/views/Sprint5Project_17405044749770/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

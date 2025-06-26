@@ -1,5 +1,9 @@
 # NYC Airbnb Data Analysis
 
+## 📊 Google Sheet Analysis  
+👉 [View the Google Sheet](https://docs.google.com/spreadsheets/d/1bRhzbBdcxxRTlaVsf9q9_X6AwTqHoyiBST553-vfxA0/edit?usp=sharing)
+
+
 ## 📊 Project Description
 
 This project analyzes Airbnb data in Manhattan to guide a client on where to invest in vacation rental properties. The goal is to identify the most attractive neighborhoods and property sizes, estimate potential revenue, and provide actionable recommendations. The analysis answers key questions:

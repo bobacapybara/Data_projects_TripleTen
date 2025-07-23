@@ -1,5 +1,8 @@
 # Zomato Restaurant Analysis
 
+## 📊 Tableau Public Dashboard  
+👉 [View the Dashboard on Tableau Public](https://public.tableau.com/views/FinalProject-ZomatoRestaurantAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Table of Contents
 <table>
   <tr>
